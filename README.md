@@ -1,1 +1,1 @@
-I a Computer Engineering Student.
+I am a Computer Engineering Student.
