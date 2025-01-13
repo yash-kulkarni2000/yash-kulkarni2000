@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yash Kulkarni 👋
 
 ## About Me
 - 🔭 I’m currently working on: [Your Project/Interest]
