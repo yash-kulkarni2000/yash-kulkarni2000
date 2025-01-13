@@ -2,12 +2,12 @@
 <h3 align="center">Software Engineer | Data Analyst | Problem Solver</h3>
 
 ## About Me
-- 🔭 I’m currently working on: **Hateful Text Classification** using NLP and Machine Learning.  
-- 🌱 I’m currently learning: **Advanced Machine Learning** and **Cloud Deployment (AWS, GCP)**.  
-- 👯 I’m looking to collaborate on: **Data Science projects** and **AI solutions**.  
-- 💬 Ask me about: **Python, SQL, Flask, PostgreSQL, and Data Analysis**.  
+- 🎓 Graduate Student at **Virginia Tech**.
+- 💼 Worked as a **Software Engineer Intern** at **Cvent** in summer 2024.
+- 🏢 Worked as a **Software Engineer** at **Plural Technology** from March 2021 to June 2023.
+- 🚀 Passionate about **data analysis**, building scalable **web applications** and **cloud solutions**.
+- 🌱 I’m currently learning: **Advanced Machine Learning** and **Cloud Deployment (AWS, GCP)**.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/yash-kulkarni-657b971b9/)** | **[Email](mailto:yashpandharish@vt.edu)**  
-- ⚡ Fun fact: I love **trekking in the Himalayas** and playing **football**.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
