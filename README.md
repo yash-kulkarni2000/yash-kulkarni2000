@@ -1,14 +1,13 @@
-# Hi there, I'm Yash Kulkarni 👋
-
 <h1 align="center">Hi 👋, I'm Yash Kulkarni</h1>
-<h3 align="center">Aspiring Data Scientist | Software Engineer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Data Analyst | Problem Solver</h3>
 
 ## About Me
-- 🔭 I’m currently working on: [Your Project/Interest]
-- 🌱 I’m currently learning: [Tech/Tool]
-- 💬 Ask me about: [Topics you're comfortable discussing]
-- 📫 How to reach me: [Your Email or LinkedIn]
-- ⚡ Fun fact: [Something interesting about you]
+- 🔭 I’m currently working on: **Hateful Text Classification** using NLP and Machine Learning.  
+- 🌱 I’m currently learning: **Advanced Machine Learning** and **Cloud Deployment (AWS, GCP)**.  
+- 👯 I’m looking to collaborate on: **Data Science projects** and **AI solutions**.  
+- 💬 Ask me about: **Python, SQL, Flask, PostgreSQL, and Data Analysis**.  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/yash-kulkarni-657b971b9/)** | **[Email](mailto:yashpandharish@vt.edu)**  
+- ⚡ Fun fact: I love **trekking in the Himalayas** and playing **football**.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
