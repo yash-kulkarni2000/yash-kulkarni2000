@@ -43,5 +43,5 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-kulkarni2000&show_icons=true&theme=default)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-kulkarni-657b971b9/))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github)]([https://your-portfolio-link](https://yash-kulkarni2000.github.io/portfolio/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yash-kulkarni-657b971b9/])
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github)]([https://yash-kulkarni2000.github.io/portfolio/])
