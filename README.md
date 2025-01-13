@@ -1,5 +1,8 @@
 # Hi there, I'm Yash Kulkarni 👋
 
+<h1 align="center">Hi 👋, I'm Yash Kulkarni</h1>
+<h3 align="center">Aspiring Data Scientist | Software Engineer | Problem Solver</h3>
+
 ## About Me
 - 🔭 I’m currently working on: [Your Project/Interest]
 - 🌱 I’m currently learning: [Tech/Tool]
